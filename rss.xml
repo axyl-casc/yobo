@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yobo · Our daily little moments</title>
+    <link>https://axyl-casc.github.io/yobo/</link>
+    <description>A daily song, relationship reminder, and date idea from Yobo.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <ttl>60</ttl>
+    <atom:link href="https://axyl-casc.github.io/yobo/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Song of the day: Good Life — OneRepublic</title>
+      <description>Listen to today’s pick, “Good Life” by OneRepublic.</description>
+      <link>https://axyl-casc.github.io/yobo/#upcoming</link>
+      <guid isPermaLink="false">yobo:2026-08-08:song</guid>
+      <category>Song of the day</category>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A little relationship reminder</title>
+      <description>Ordinary days become our favourite memories when we share them.</description>
+      <link>https://axyl-casc.github.io/yobo/#upcoming</link>
+      <guid isPermaLink="false">yobo:2026-08-08:quote</guid>
+      <category>Relationship quote</category>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Little moment ahead: Library Date</title>
+      <description>Browse the library, choose books for each other, and spend some quiet time reading together.</description>
+      <link>https://axyl-casc.github.io/yobo/#upcoming</link>
+      <guid isPermaLink="false">yobo:2026-08-08:date-idea</guid>
+      <category>Date idea</category>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
