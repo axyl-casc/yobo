@@ -5,32 +5,32 @@
     <link>https://axyl-casc.github.io/yobo/</link>
     <description>A daily song, relationship reminder, and date idea from Yobo.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://axyl-casc.github.io/yobo/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Song of the day: Good Life — OneRepublic</title>
-      <description>Listen to today’s pick, “Good Life” by OneRepublic.</description>
+      <title>Song of the day: Somewhere Only We Know — Keane</title>
+      <description>Listen to today’s pick, “Somewhere Only We Know” by Keane.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-08-08:song</guid>
+      <guid isPermaLink="false">yobo:2026-08-11:song</guid>
       <category>Song of the day</category>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>A little relationship reminder</title>
-      <description>Ordinary days become our favourite memories when we share them.</description>
+      <description>Home is the feeling we make for one another.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-08-08:quote</guid>
+      <guid isPermaLink="false">yobo:2026-08-11:quote</guid>
       <category>Relationship quote</category>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Little moment ahead: Library Date</title>
-      <description>Browse the library, choose books for each other, and spend some quiet time reading together.</description>
+      <title>Little moment ahead: Cloud Watching</title>
+      <description>Bring a blanket to a park and spend time spotting shapes in the clouds together.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-08-08:date-idea</guid>
+      <guid isPermaLink="false">yobo:2026-08-11:date-idea</guid>
       <category>Date idea</category>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
