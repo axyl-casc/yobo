@@ -5,32 +5,32 @@
     <link>https://axyl-casc.github.io/yobo/</link>
     <description>A daily song, relationship reminder, and date idea from Yobo.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://axyl-casc.github.io/yobo/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Song of the day: Anchor — Novo Amor</title>
-      <description>Listen to today’s pick, “Anchor” by Novo Amor.</description>
+      <title>Song of the day: Photograph — Ed Sheeran</title>
+      <description>Listen to today’s pick, “Photograph” by Ed Sheeran.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-08-15:song</guid>
+      <guid isPermaLink="false">yobo:2026-08-29:song</guid>
       <category>Song of the day</category>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>A little relationship reminder</title>
-      <description>Love grows in the little things we choose every day.</description>
+      <description>Keep choosing each other, especially in the quiet moments.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-08-15:quote</guid>
+      <guid isPermaLink="false">yobo:2026-08-29:quote</guid>
       <category>Relationship quote</category>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Little moment ahead: Park Card Games</title>
-      <description>Bring a deck of cards to a nearby park and play a few relaxed games in the shade.</description>
+      <title>Little moment ahead: Cloud Watching</title>
+      <description>Bring a blanket to a park and spend time spotting shapes in the clouds together.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-08-15:date-idea</guid>
+      <guid isPermaLink="false">yobo:2026-08-29:date-idea</guid>
       <category>Date idea</category>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
