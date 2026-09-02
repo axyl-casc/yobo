@@ -8,8 +8,26 @@
     <link rel="alternate" type="application/rss+xml" title="Yobo daily little moments" href="/yobo/rss.xml" />
     <link rel="icon" type="image/png" href="/yobo/assets/heart-icon-B1P1qfYv.png" />
     <title>Yobo · 여보</title>
-    <script type="module" crossorigin src="/yobo/assets/index-Dnya0k1G.js"></script>
-    <link rel="stylesheet" crossorigin href="/yobo/assets/index-CbC9AHWb.css">
+    <style>
+      html[data-theme="midnightrose"],
+      html[data-theme="midnightrose"] body {
+        background-color: #211a22;
+      }
+      html[data-theme="ourdays"],
+      html[data-theme="ourdays"] body {
+        background-color: #f7f4f2;
+      }
+    </style>
+    <script>
+      try {
+        const savedTheme = localStorage.getItem("theme");
+        if (savedTheme === "ourdays" || savedTheme === "midnightrose") {
+          document.documentElement.setAttribute("data-theme", savedTheme);
+        }
+      } catch {}
+    </script>
+    <script type="module" crossorigin src="/yobo/assets/index-DtBWwpTr.js"></script>
+    <link rel="stylesheet" crossorigin href="/yobo/assets/index-C3oQRTfr.css">
   </head>
   <body>
     <div id="root"></div>
