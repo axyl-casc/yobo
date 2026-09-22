@@ -5,32 +5,32 @@
     <link>https://axyl-casc.github.io/yobo/</link>
     <description>A daily song, relationship reminder, and date idea from Yobo.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://axyl-casc.github.io/yobo/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Song of the day: I Choose You — Sara Bareilles</title>
-      <description>Listen to today’s pick, “I Choose You” by Sara Bareilles.</description>
+      <title>Song of the day: Home — Edward Sharpe &amp; The Magnetic Zeros</title>
+      <description>Listen to today’s pick, “Home” by Edward Sharpe &amp; The Magnetic Zeros.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-09:song</guid>
+      <guid isPermaLink="false">yobo:2026-09-22:song</guid>
       <category>Song of the day</category>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>A little relationship reminder</title>
-      <description>We do not need a perfect day to make a beautiful memory.</description>
+      <description>Growing together is its own kind of adventure.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-09:quote</guid>
+      <guid isPermaLink="false">yobo:2026-09-22:quote</guid>
       <category>Relationship quote</category>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Little moment ahead: Acoustic Café Night</title>
-      <description>Find a local open mic or make an unplugged playlist at home.</description>
+      <title>Little moment ahead: Apple Orchard Date</title>
+      <description>Pick crisp apples and choose one perfect recipe to make afterward.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-09:date-idea</guid>
+      <guid isPermaLink="false">yobo:2026-09-22:date-idea</guid>
       <category>Date idea</category>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
