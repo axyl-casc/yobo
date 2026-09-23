@@ -5,32 +5,32 @@
     <link>https://axyl-casc.github.io/yobo/</link>
     <description>A daily song, relationship reminder, and date idea from Yobo.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://axyl-casc.github.io/yobo/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Song of the day: Home — Edward Sharpe &amp; The Magnetic Zeros</title>
-      <description>Listen to today’s pick, “Home” by Edward Sharpe &amp; The Magnetic Zeros.</description>
+      <title>Song of the day: Leave It On The Dancefloor — Hope Tala</title>
+      <description>Listen to today’s pick, “Leave It On The Dancefloor” by Hope Tala.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-22:song</guid>
+      <guid isPermaLink="false">yobo:2026-09-23:song</guid>
       <category>Song of the day</category>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>A little relationship reminder</title>
-      <description>Growing together is its own kind of adventure.</description>
+      <description>Today is another chance to be on the same team.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-22:quote</guid>
+      <guid isPermaLink="false">yobo:2026-09-23:quote</guid>
       <category>Relationship quote</category>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Little moment ahead: Apple Orchard Date</title>
-      <description>Pick crisp apples and choose one perfect recipe to make afterward.</description>
+      <title>Little moment ahead: Go out for some bingsu</title>
+      <description>Visit a Korean dessert café and share a refreshing bowl of bingsu with your favourite toppings.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-22:date-idea</guid>
+      <guid isPermaLink="false">yobo:2026-09-23:date-idea</guid>
       <category>Date idea</category>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
