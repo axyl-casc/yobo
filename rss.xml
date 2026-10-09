@@ -5,32 +5,32 @@
     <link>https://axyl-casc.github.io/yobo/</link>
     <description>A daily song, relationship reminder, and date idea from Yobo.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://axyl-casc.github.io/yobo/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Song of the day: Leave It On The Dancefloor — Hope Tala</title>
-      <description>Listen to today’s pick, “Leave It On The Dancefloor” by Hope Tala.</description>
+      <title>Song of the day: Walking on a Dream — Empire of the Sun</title>
+      <description>Listen to today’s pick, “Walking on a Dream” by Empire of the Sun.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-23:song</guid>
+      <guid isPermaLink="false">yobo:2026-10-09:song</guid>
       <category>Song of the day</category>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>A little relationship reminder</title>
-      <description>Today is another chance to be on the same team.</description>
+      <description>We do not need a perfect day to make a beautiful memory.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-23:quote</guid>
+      <guid isPermaLink="false">yobo:2026-10-09:quote</guid>
       <category>Relationship quote</category>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Little moment ahead: Go out for some bingsu</title>
-      <description>Visit a Korean dessert café and share a refreshing bowl of bingsu with your favourite toppings.</description>
+      <title>Little moment ahead: Costume Thrift Challenge</title>
+      <description>Build costumes from thrift-store finds with a small budget and plenty of imagination.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-09-23:date-idea</guid>
+      <guid isPermaLink="false">yobo:2026-10-09:date-idea</guid>
       <category>Date idea</category>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
