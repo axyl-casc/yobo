@@ -5,32 +5,32 @@
     <link>https://axyl-casc.github.io/yobo/</link>
     <description>A daily song, relationship reminder, and date idea from Yobo.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://axyl-casc.github.io/yobo/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Song of the day: Ghost — Justin Bieber</title>
-      <description>Listen to today’s pick, “Ghost” by Justin Bieber.</description>
+      <title>Song of the day: Marry Me — Train</title>
+      <description>Listen to today’s pick, “Marry Me” by Train.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-10-18:song</guid>
+      <guid isPermaLink="false">yobo:2026-11-11:song</guid>
       <category>Song of the day</category>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>A little relationship reminder</title>
-      <description>Keep choosing each other, especially in the quiet moments.</description>
+      <description>Growing together is its own kind of adventure.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-10-18:quote</guid>
+      <guid isPermaLink="false">yobo:2026-11-11:quote</guid>
       <category>Relationship quote</category>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Little moment ahead: Haunted Gingerbread House</title>
-      <description>Decorate a cookie house with funny ghosts, crooked icing, and too much candy.</description>
+      <title>Little moment ahead: Gratitude Dinner</title>
+      <description>Cook a simple meal and trade notes about things you appreciate in each other.</description>
       <link>https://axyl-casc.github.io/yobo/#upcoming</link>
-      <guid isPermaLink="false">yobo:2026-10-18:date-idea</guid>
+      <guid isPermaLink="false">yobo:2026-11-11:date-idea</guid>
       <category>Date idea</category>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
